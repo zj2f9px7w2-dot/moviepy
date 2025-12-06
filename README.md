@@ -85,3 +85,21 @@ To ask for help or simply discuss usage and examples, use [our Reddit channel](h
 
 **Maintainers wanted!** this library has only been kept afloat by the involvement of its maintainers, and there are times where none of us have enough bandwidth. We'd love to hear about developers interested in giving a hand and solving some of the issues (especially the ones that affect you) or reviewing pull requests. Open
 an issue or contact us directly if you are interested. Thanks!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Movies</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>My Movies Website</h1>
+</header>
+<main>
+<div id="movies-list"></div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
